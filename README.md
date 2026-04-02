@@ -2,6 +2,8 @@
 
 <img width="310" height="419" alt="image" src="https://github.com/user-attachments/assets/db4eba64-063b-4c0b-a945-cc3f01655e91" />
 
+https://belisnalvacosta.github.io/english-trainer/
+
 ## 📌 Sobre o projeto
 
 Essa é uma página pessoal de portfólio que apresenta formação, experiência, projetos e carta de apresentação da desenvolvedora Belisnalva C. P. Jesus.
