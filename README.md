@@ -2,7 +2,7 @@
 
 <img width="310" height="419" alt="image" src="https://github.com/user-attachments/assets/db4eba64-063b-4c0b-a945-cc3f01655e91" />
 
-https://belisnalvacosta.github.io/english-trainer/
+Meu projeto prático atual: https://belisnalvacosta.github.io/english-trainer/
 
 ## 📌 Sobre o projeto 
 
